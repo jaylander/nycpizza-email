@@ -1,0 +1,24 @@
+<container>
+	{{#each nycpizzaMainBody}}
+	<row>
+		<columns>
+			<center>
+				<img src="{{this.image}}" alt="{{this.title}}" height="376" width="564">
+			</center>
+			<spacer size="16"></spacer>
+			<h3 class="text-center pairings__heading">
+				{{this.title}}
+			</h3>
+			{{#each this.articles}}
+			<spacer size="16"></spacer>
+			<p>
+				<strong>{{this.sub-heading}}</strong><br>
+				{{{this.paragraph}}}
+			</p>
+			{{/ each}}
+		</columns>
+	</row>
+	{{/ each}}
+	<spacer size="32"></spacer>
+
+</container>

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Scarr’s Original & a Pinot Noir from Burgundy",
+        "image": "https://i.imgur.com/x15WT04.png",
+        "articles": [
+            {
+                "sub-heading": "Scarr’s Cheese Slice",
+                "paragraph": "Owner <a href='#'>Scarr Pimentel’s</a> quality, organic ingredients and no-additives pizza are the perfect pairing for natural wine. Pimentel sources the flour from Upstate New York and mills it in his basement. He started his slice shop in reaction to other shops cutting corners in their process, adding sugar to the sauce, using GMO wheat and non-organic ingredients. His diligence in sourcing and attention to detail results in one of the best slices in NYC. Everything is in balance: The crispy-to-chewy ratio of the crust, the perfect amount of sauce-to-cheese, and the simple, naturally sweet tomato sauce."
+            },
+            {
+                "sub-heading": "‘La Plante d'à Côté’ by Claire Naudin",
+                "paragraph": "Claire Naudin makes really special, elegant wines in Burgundy, France. She started making natural, minimal to no-sulfur wine after discovering she was allergic to the chemical. She refuses to use pesticides for the health of the soil, but also for the health of her team. Her family story, how she came to run her vineyard, and her vineyard and winemaking methods are meticulously outlined on her website for transparency."
+            },
+            {
+                "sub-heading": "The Pairing",
+                "paragraph": "When pairing a wine with a slice as good as Scarr's, we knew Naudin's 'La Plante d'à Côté' would match the quality. This 100% Pinot Noir is light, juicy and complex. It smells like salted strawberry jam and goes perfectly with the savory, low-moisture aged mozzarella and the thin but bouncy pizza dough."
+            }
+        ]
+    },
+    {
+        "title": "Prince St. Pepperoni Square with a Juicy Red from Piemonte",
+        "image": "https://i.imgur.com/NEr38jc.png",
+        "articles": [
+            {
+                "sub-heading": "‘Spicy Spring’ Pepperoni Square",
+                "paragraph": "The ‘Spicy Spring’ square slice from <a href='#'>Prince St. Pizza</a> is covered in layers of spicy pepperoni, Fra Diavolo sauce, and has a soft, chewy crust that makes one slice as thick as a sandwich. While we aren't sure if the crust is made with wild yeast, we're fine with it because of their consistency in pooling oil into the cupped pepperoni."
+            },
+            {
+                "sub-heading": "‘Guercia’ by Tavijn",
+                "paragraph": "Nadia Verrua who owns <a href='#'>Tavijn</a> makes beautiful, experimental wines in Piemonte, Italy. Her land is farmed organically and split between local grape vines and hazelnut trees. The Guercia is a versatile, punchy table wine with dark red fruit, slight bitterness and a subtle wildness to it that we can't get enough of."
+            },
+            {
+                "sub-heading": "The Pairing",
+                "paragraph": "'Guercia’ by Tavijn has enough going on and is complex enough to compete with the spicy pepperonis and mozzarella of the Prince St. slice. The intense flavors of the pepperoni needs a wine with both acidity and tannins to act as a counterbalance. "
+            }
+        ]
+    },
+    {
+        "title": "Best Pizza’s White Slice with a Pét Nat from Vermont",
+        "image": "https://i.imgur.com/RZiS4P8.png",
+        "articles": [
+            {
+                "sub-heading": "Best Pizza, White Slice",
+                "paragraph": "Best Pizza founder Frank Pinello started learning to cook from his Sicilian grandmother. <a href='#'>Best</a> uses local ingredients whenever possible and non-traditional flours that make for more nutritious and interesting dough. Pinello also adjusts the temperature of the water for the dough based on the weather and humidity. We love their classic and pepperoni slices but today are featuring the white slice which combines soft, lemony ricotta cheese, sweet caramelized onions, and a heavy dose of Pinello’s signature sesame seeds for extra crunch along the crust."
+            },
+            {
+                "sub-heading": "‘Ci Confonde’ White Pét Nat by La Garagista",
+                "paragraph": "At <a href='#'>La Garagista</a> in Vermont, Deirdre Heekin makes gorgeous natural wine from hybrid grapes (crosses between European vinifera grapes and American species grapes). They also make cider, grow vegetables, fruit, flowers, and herbs, and follow regenerative and biodynamic farming values. The 'Ci Confonde' white pét nat was hand-harvested with no added sulfur and smells like fresh, Vermont apple orchards with tiny, delicate bubbles. At only 11% alcohol, it drinks very easily."
+            },
+            {
+                "sub-heading": "The Pairing",
+                "paragraph": "Our first thought when thinking about a pairing for this slice was a sour beer or cider. The effervescent La Garagista pét nat has some qualities of both. We love overlapping the lemony, garlic pizza scent with the apple, pear pét nat aromas, and the bubbly wine against the chewy, crunchy sesame crust. This is an easygoing pairing, where the wine and pizza both disappear more quickly than intended."
+            }
+        ]
+	}
+]

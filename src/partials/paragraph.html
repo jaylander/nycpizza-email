@@ -1,0 +1,22 @@
+<container>
+	<row>
+		<columns>
+			<spacer size="40"></spacer>
+			<h2 class="text-center top-body__heading">
+				{{nycpizzaTopBody.title}}
+			</h2>
+
+			{{#each nycpizzaTopBody.articles}}
+			<spacer size="16"></spacer>
+
+			<p>
+				<strong>{{this.sub-title}}</strong><br>
+				{{this.paragraph}}
+			</p>
+			{{/ each}}
+
+			<spacer size="36"></spacer>
+
+		</columns>
+	</row>
+</container>
